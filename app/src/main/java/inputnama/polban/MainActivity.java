@@ -23,3 +23,4 @@ TextView Hasil;
         Hasil.setText("nama anda:"+TextNama.getText());
     }
 }
+// ini commit pertama
